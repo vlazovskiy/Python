@@ -1,0 +1,1 @@
+Classic interview question: given stock prices for a day (stored as a list), write an efficient algorithm which takes stock prices and returns the best profit that could be made from one purchase and one sale that day.
