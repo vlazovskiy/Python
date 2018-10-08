@@ -1,2 +1,1 @@
-# practice
-Repository for miscellaneous practice
+Repository for miscellaneous coding practice problems.
