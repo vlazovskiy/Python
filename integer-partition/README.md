@@ -16,3 +16,5 @@ The classic solution defines a recursive function p(k, n), which represents the 
 • else p(k, n) = p(k + 1, n) + p(k, n − k)   
 
 There is also a third "base case", p(k, n) = 0 if k ≤ 0 or n ≤ 0, but it is rather vacuous, since we are working with natural numbers to begin with, and can only occur if the user enters invalid input. This case won't be considered in algorithm implementation.
+
+So to find all partitions of a positive integer, we would simply call the function as p(1, n).
